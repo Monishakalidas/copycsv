@@ -1,0 +1,28 @@
+Commands to run this code:
+
+g++ Task1.cpp -o program  
+
+.\program.exe
+
+
+
+"TASK1":
+Flowchart: A visual representation of a process, showing the sequence of steps using symbols like rectangles, diamonds, and arrows. 
+
+Sequence: Depicts a straightforward, linear progression of tasks or operations in a process. 
+
+Branching: Represents decision points where the flow can diverge into two or more paths based on conditions. 
+
+Iteration: Illustrates loops where a set of steps is repeated until a condition is met. 
+
+Case: Handles multiple possible paths based on specific conditions, often represented using decision symbols. 
+
+-->Structured flowchart for copying a content from A.csv file to another B.csv file. 
+
+ 
+
+--> Attributes/fields 
+Name, Age, class, Div, Teacher 
+ 
+
+A.csv                                                                                                                                                B.csv 
